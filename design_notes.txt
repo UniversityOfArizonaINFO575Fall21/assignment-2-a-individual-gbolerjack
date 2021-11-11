@@ -10,7 +10,13 @@ Phase II:
  Navigation Flow
 
 Phase III:
- Colors, elements, and styles
+ Colors, elements, and styles 
+   Color palette-
+   Illustration style-
+   Typography-font (courier new)
+   Use of space - 
+   Navigation style - 
+
 
  Website wireframes
 
