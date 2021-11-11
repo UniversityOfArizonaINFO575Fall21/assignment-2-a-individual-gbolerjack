@@ -1,0 +1,17 @@
+Downloaded planning a planning guide from URL:
+ https://creately.com/blog/diagrams/website-planning-guide/
+
+Phase I:
+ WEBSITE Objectives
+
+Phase II: 
+ Website Structure
+
+ Navigation Flow
+
+Phase III:
+ Colors, elements, and styles
+
+ Website wireframes
+
+Phase IV: 
