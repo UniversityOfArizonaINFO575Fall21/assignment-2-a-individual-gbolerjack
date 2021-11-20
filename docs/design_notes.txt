@@ -1,0 +1,51 @@
+Task-list
+  -add boilerplate css features to main stylesheet (done)
+  -create separate wep pages for menu items (done)
+  -make title header graphics
+  -change header font to JohnDoe
+  -complete home page content
+  -coding for survey page
+  -complete Sightings content
+  -complete 'how it started' content
+  -complete UFO History content
+ 
+Font for TITLE header Johndoe (looks like font for book title)
+#1 Add to the head section of web page.
+<link href="//db.onlinewebfonts.com/c/9bae89a8a28b7eb1b195dcb01d32bc37?family=JohnDoe" rel="stylesheet" 
+type="text/css"/>
+#2 Using @import CSS directive, put the following line in add to your css file.(http | https)
+@import url(//db.onlinewebfonts.com/c/9bae89a8a28b7eb1b195dcb01d32bc37?family=JohnDoe);
+#3 Use font-face declaration Fonts.(http | https)
+@font-face {font-family: "JohnDoe"; src:
+url("//db.onlinewebfonts.com/t/9bae89a8a28b7eb1b195dcb01d32bc37.eot"); src: 
+url("//db.onlinewebfonts.com/t/9bae89a8a28b7eb1b195dcb01d32bc37.eot?#iefix") format("embedded-opentype"),
+url("//db.onlinewebfonts.com/t/9bae89a8a28b7eb1b195dcb01d32bc37.woff2") format("woff2"), 
+url("//db.onlinewebfonts.com/t/9bae89a8a28b7eb1b195dcb01d32bc37.woff") format("woff"), 
+url("//db.onlinewebfonts.com/t/9bae89a8a28b7eb1b195dcb01d32bc37.ttf") format("truetype"), 
+url("//db.onlinewebfonts.com/t/9bae89a8a28b7eb1b195dcb01d32bc37.svg#JohnDoe") format("svg"); }
+
+
+Planning Guide
+Downloaded planning a planning guide from URL:
+ https://creately.com/blog/diagrams/website-planning-guide/
+
+Phase I:
+ WEBSITE Objectives
+
+Phase II: 
+ Website Structure
+
+ Navigation Flow
+
+Phase III:
+ Colors, elements, and styles 
+   Color palette- Blue & yellow
+   Illustration style- mix of photos and drawings
+   Typography-font (courier new)
+   Use of space - two columns
+   Navigation style - horizonal
+
+
+ Website wireframes
+
+Phase IV: 
