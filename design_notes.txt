@@ -1,3 +1,17 @@
+Task-list
+  -add boilerplate css features to main stylesheet
+  -separate wep pages for menu items
+  -make title header graphics
+  -complete home page content
+  -coding for survey page
+  -complete Sightings content
+  -complete 'how it started' content
+  -complete UFO History content
+ 
+
+
+
+Planning Guide
 Downloaded planning a planning guide from URL:
  https://creately.com/blog/diagrams/website-planning-guide/
 
