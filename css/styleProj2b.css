@@ -20,7 +20,7 @@ header {
     text-align: center;
     padding: 20px;
     color: darkblue;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     font-size: 120%;
     font-weight: bold;
 }
