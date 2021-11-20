@@ -1,0 +1,7 @@
+Helpful tools
+    -device checker, can use for free with trial but then would need
+    to pay.  Checks for iPhone, galaxy, kindle, apple and window devices.
+
+
+Things to do different
+    -Needed to utilize HTML5 boilerplate packege sooner.  
