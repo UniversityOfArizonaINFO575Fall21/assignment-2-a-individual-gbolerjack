@@ -74,6 +74,16 @@ h2 {
 }
 
 /* Footer Styles */
+footer {
+	clear: both;
+	color: black;
+	background-color: rgb(255, 239, 213);
+	text-align: center;
+	padding-top: 1px;
+	margin-top: 10px;
+}
+
+
 
 /* Add media query to modify for 
    mobile devices.               */

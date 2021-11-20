@@ -11,11 +11,11 @@ Phase II:
 
 Phase III:
  Colors, elements, and styles 
-   Color palette-
-   Illustration style-
+   Color palette- Blue & yellow
+   Illustration style- mix of photos and drawings
    Typography-font (courier new)
-   Use of space - 
-   Navigation style - 
+   Use of space - two columns
+   Navigation style - horizonal
 
 
  Website wireframes
