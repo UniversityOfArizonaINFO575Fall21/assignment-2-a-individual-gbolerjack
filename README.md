@@ -10,4 +10,5 @@ js files for use.
 
 Use following site to test website on mobile devices
 https://www.browserstack.com/responsive
-Previous test had failed, after addition of @media, viewport meta statement, and normalizer css sheet, passed readability test on varius devices. 
+Previous test had failed, after addition of @media, viewport meta statement, 
+and normalizer css sheet, passed readability test on varius devices. 
