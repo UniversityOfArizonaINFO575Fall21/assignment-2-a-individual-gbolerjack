@@ -16,7 +16,12 @@ body {
 
 /* Body header style */
 header {
-    background-color: powderblue;
+    background-color: powderblue; 
+    /*background-image: url('images/space_header.jpg'); 
+    background: cover;  */
+    border-color: orange;
+    border-width: .25em;
+    border-style: double;
     text-align: center;
     padding: 20px;
     color: darkblue;
@@ -24,6 +29,36 @@ header {
     font-size: 120%;
     font-weight: bold;
 }
+/*code to get header image as background*/
+/* Header image with text overlay method 1 
+  issue is that navigation bar features disappear
+#header-image{
+    top: 10px;
+    position: relative;
+}
+#header-image img{
+    width: 100%;
+    margin: none;
+    padding: none;
+}
+#image-text{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-family: 'Roboto';
+    color: #000;
+    transform: translate(-30%, -30%);
+    text-align: center;
+
+*/
+
+/* header image as background method 2 
+#header-image{
+  width: 100%;
+  height: 400px;
+  background: url(images/space_header.jpg);
+  background-size: cover;
+*/
 
 /* Horixontal navigation styles */
 ul {
